@@ -6,7 +6,7 @@ The system demonstrates a fully decoupled Agent-to-Agent (A2A) architecture.
 
 Please use the accompanying the [YouTube Crash Course video](https://www.youtube.com/watch?v=s6-Ofu-uu2k).
 
-> **Note**: This repository contains the starting code to follow along with the tutorial series. For the complete implementation, please check out the `lesson-complete` branch.
+> **Note**: This branch contains the **final working implementation** code. For the starting code, please check out the `lesson-start` branch.
 
 ## 🔨 Builder Pack
 
